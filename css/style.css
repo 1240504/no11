@@ -191,7 +191,8 @@ button:hover {
   
   }
   #about{
-    width:380px;
+    /*width:380px;*/
+    width:auto ;
     padding: 4% 0;
     margin: 0;
   }
