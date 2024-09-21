@@ -198,6 +198,7 @@ button:hover {
   }
   #about h2{
     text-align: center;
+    color:red;
   }
   #news{
     width: 380px;
